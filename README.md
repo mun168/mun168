@@ -11,8 +11,6 @@
 
 - ⚡ Fun fact: **Jazz is a must when coding**
 
-- 🔭 Other work: I also design and share bible verse images on [instagram](https://www.instagram.com/all_for_king_jesus)
-
 ### Connect with me:
 
 <a href="https://wa.me/263785590317" target="blank"><img src="https://img.shields.io/badge/whatsapp-%25D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" alt="263714998913" height="25" /></a>
