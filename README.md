@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **Swift, Angular, Spring boot**
+- 🌱 I’m currently learning **Swift, Artificial Intelligence, Reactjs **
 
 
 - 👯 Come let's make cool stuff **together**
